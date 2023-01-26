@@ -4,7 +4,7 @@ using Amazon.SecretsManager.Model;
 using Newtonsoft.Json;
 using Amazon;
 
-namespace F1ListGroupTypes
+namespace F1ListGroups
 {
   public  class Secret
     {

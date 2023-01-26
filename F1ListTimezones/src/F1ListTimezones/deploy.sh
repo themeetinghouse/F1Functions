@@ -1,1 +1,1 @@
- dotnet lambda deploy-function --profile tmhprodnew -fn F1ListGroups -frole F1Role
+ dotnet lambda deploy-function --profile tmhprodnew -fn F1ListTimezones -frole F1Role
