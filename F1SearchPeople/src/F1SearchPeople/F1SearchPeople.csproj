@@ -15,9 +15,11 @@
     <PackageReference Include="Amazon.Lambda.Serialization.SystemTextJson" Version="2.3.0" />
     <PackageReference Include="FellowshipOne.Api" Version="2.0.7" />
     <PackageReference Include="Amazon.Lambda.Serialization.Json" Version="2.1.0" />
+    <PackageReference Include="AWSSDK.SecretsManager" Version="3.7.101.17" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="FellowshipOne.Api" />
     <None Remove="Amazon.Lambda.Serialization.Json" />
+    <None Remove="AWSSDK.SecretsManager" />
   </ItemGroup>
 </Project>
